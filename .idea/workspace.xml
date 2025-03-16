@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2b0b7f0-f54b-48fe-8983-2cd2b17d71ce" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/foodiesapi" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/FoodiesapiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/FoodiesapiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/config/AWSConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/config/AWSConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/controller/FoodController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/controller/FoodController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/entity/CartEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/entity/CartEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/entity/FoodEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/entity/FoodEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/entity/OrderEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/entity/OrderEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/filters/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/filters/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/AuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/AuthenticationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/AuthenticationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/CartRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/CartRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/CartResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/CartResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/FoodRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/FoodRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/FoodResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/FoodResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/OrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/OrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/OrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/OrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/UserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/UserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/io/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/io/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/repository/CartRespository.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/repository/CartRespository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/repository/FoodRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/repository/FoodRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/AppUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/AppUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/AuthenticationFacadeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/AuthenticationFacadeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/AutthenticationFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/AutthenticationFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/FoodService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/FoodService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/FoodServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/FoodServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/main/java/in/bushansirgur/foodiesapi/util/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/main/java/com/aditya/foodiesapi/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodiesapi/src/test/java/in/bushansirgur/foodiesapi/FoodiesapiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodiesapi/src/test/java/com/aditya/foodiesapi/FoodiesapiApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/foodiesapi" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Adityaranjanpatra&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Adityaranjanpatra/online-food-delivery-project.git&quot;,
+    &quot;accountId&quot;: &quot;fab7d6f4-b004-487a-b63d-dd3a87933ab9&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uIQEBBhcmAbPXejTqhtvWnFNKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.FoodiesapiApplication.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Aditya/Downloads/online-food-delivery-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FoodiesapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="foodiesapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="in.bushansirgur.foodiesapi.FoodiesapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2b0b7f0-f54b-48fe-8983-2cd2b17d71ce" name="Changes" comment="" />
+      <created>1741933494569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741933494569</updated>
+      <workItem from="1741933495690" duration="1184000" />
+      <workItem from="1742007559905" duration="5577000" />
+      <workItem from="1742013439472" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1741933874602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741933874602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1742008147802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742008147802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created endpoint for add to cart&#10;completed project" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+</project>
